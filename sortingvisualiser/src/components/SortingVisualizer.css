@@ -1,0 +1,21 @@
+.sorting-visualizer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .array-container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 400px; /* Adjust the height as needed */
+    width: 80%;
+    margin-top: 20px;
+  }
+  
+  .array-bar {
+    width: 10px;
+    margin: 0 1px;
+    background-color: #3498db; /* Adjust color as desired */
+  }
